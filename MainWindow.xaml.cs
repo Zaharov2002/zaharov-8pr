@@ -24,7 +24,6 @@ namespace zaharov_8pr
         {
             InitializeComponent();
         }
-
         private void Schet_Click(object sender, RoutedEventArgs e)
         {
 
@@ -44,6 +43,7 @@ namespace zaharov_8pr
 
                 x = x + dx;
             }
-            }
+
+        }
     }
 }
